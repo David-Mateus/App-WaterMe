@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Water</string>
+    <string name="text_water">Toque no botão abaixo de acordo com quantidade de agua consumida</string>
+    <string name="water_ml_message">Hoje %1$d ML</string>
+    <string name="btn_acrescentar_200ml">Botão para acrescentar 200ML</string>
+    <string name="btn_acrescentar_450ml">Botão para acrescentar 450ML</string>
+    <string name="btn_acrescentar_750ml">Botão para acrescentar 750ML</string>
+    <string name="bot_o_para_reserta">Botão para reserta</string>
+</resources>
